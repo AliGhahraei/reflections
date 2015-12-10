@@ -15,3 +15,6 @@
 
 -- What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 * When you add new functionality and you don't know if it's stable, when you do some change but you think that it can be done in a better way or when you want to have several versions of a program for different audiences (developer, end user, etc.). Branches keep these changes organized and make the whole process easier.
+
+-- How do the diagrams help you visualize the branch structure?
+* They help you to see where the commits diverge and where they would best merge in a nice and simple way, so you don't get confused with ids
