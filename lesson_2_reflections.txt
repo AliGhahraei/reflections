@@ -3,6 +3,15 @@
   1) Git creates its metadata in that directory in order to keep track of changes.
   2) This way you can use git with a new project or with a project without version control.
 
+
 -- How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 * It is different from the working directory and the repository because it is only used as an intermediate state. It allows us to have deeper control over the content of our commits.
+
+
+-- How can you use the staging area to make sure you have one commit per logical change?
+* You can modify whatever you want and then use the staging area to make sense out of it.
+
+
+-- What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+* When you add new functionality and you don't know if it's stable, when you do some change but you think that it can be done in a better way or when you want to have several versions of a program for different audiences (developer, end user, etc.). Branches keep these changes organized and make the whole process easier.
