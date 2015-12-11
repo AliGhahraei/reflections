@@ -12,3 +12,7 @@
 
 -- What is the benefit of having a copy of the last known state of the remote stored locally?
 * That way you instantly know what has changed, so it's more efficient to merge, diff and so on because you don't have to find it out by other measures.
+
+
+-- How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+* I would use any file sharing service. I wouldn't have any extra work thanks to not having any sort of version control, but anyone with adequate access to my project could mess it up and we would have a hard time recovering from that.
