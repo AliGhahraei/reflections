@@ -16,3 +16,7 @@
 
 -- How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 * I would use any file sharing service. I wouldn't have any extra work thanks to not having any sort of version control, but anyone with adequate access to my project could mess it up and we would have a hard time recovering from that.
+
+
+-- When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+* You would operate on a different branch when you need a stable version of your software for some reason. Changing master directly is easier and faster, but a pull request is more organized and making them is a nice way to create a collaborative workflow.
